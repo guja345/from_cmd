@@ -1,0 +1,13 @@
+ Volume in drive C has no label.
+ Volume Serial Number is 308F-7DBD
+
+ Directory of C:\Users\Thinkpad\Desktop\java_hello
+
+03.07.2025  15:02    <DIR>          .
+03.07.2025  15:02    <DIR>          ..
+03.07.2025  14:48               897 hello.class
+03.07.2025  14:48               148 hello.java
+03.07.2025  15:02                 0 info.txt
+03.07.2025  14:43                10 README.md
+               4 File(s)          1ÿ055 bytes
+               2 Dir(s)  26ÿ058ÿ944ÿ512 bytes free
